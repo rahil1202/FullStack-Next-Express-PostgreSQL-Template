@@ -1,8 +1,10 @@
 ---
-name: "🐞 Bug Report"
+name: "\U0001F41E Bug Report"
 about: Report a problem or unexpected behavior in Full-Stack-Next-Express-PostgreSQl-Template
 title: "[Bug] <describe issue>"
 labels: bug
+assignees: ''
+
 ---
 
 ## Description

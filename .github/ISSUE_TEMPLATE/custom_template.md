@@ -1,8 +1,10 @@
 ---
-name: "🎨 Theme/Design Suggestion"
+name: "\U0001F3A8 Theme/Design Suggestion"
 about: Suggest a new portfolio theme or design enhancement
 title: "[Theme] <suggested theme name>"
-labels: theme, enhancement
+labels: enhancement
+assignees: ''
+
 ---
 
 ## What is your theme or design idea?
