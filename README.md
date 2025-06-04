@@ -141,5 +141,3 @@ This project is licensed under the [GNU License](./LICENSE).
 * [Prisma](https://www.prisma.io/)
 * [Husky](https://typicode.github.io/husky/)
 * [Concurrently](https://www.npmjs.com/package/concurrently)
-
-```
